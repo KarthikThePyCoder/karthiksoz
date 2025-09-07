@@ -1,2 +1,6 @@
 # karthiksoz
-KarthikSoz is Karthik's socializing ecosystem featuring KarthikInters (posts &amp; likes, Montserrat), 1/97 (reels &amp; calls, Roboto Slab), and Chatbuds (messaging, Poppins). Built with Python, it supports English, Arabic, French, and several Indian languages, with anti-spam features.
+KarthikSoz is this repository's socializing ecosystem featuring KarthikInters (posts and likes, Montserrat), 1/97 (reels and calls, Roboto Slab), and ChatBuds (messaging, Poppins). Built with Python, it supports English, Arabic, French, and several Indian languages, with anti-spam features.
+KarthikInters - Create posts and polls without struggle.
+1/97 - Make short-form videos and calls freely.
+ChatBuds -  Message either in text, audio or video greatly.
+We hope you enjoy this software!
